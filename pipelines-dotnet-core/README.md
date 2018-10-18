@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/manuelcarpente/Prueba%20curso%20Devops/_apis/build/status/leunam12.CursoDevOps)](https://dev.azure.com/manuelcarpente/Prueba%20curso%20Devops/_build/latest?definitionId=5)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
